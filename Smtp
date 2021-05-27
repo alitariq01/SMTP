@@ -1,0 +1,3 @@
+from VideoCapture import Device
+cam = Device()
+cam.saveSnapshot('123456.jpg')
